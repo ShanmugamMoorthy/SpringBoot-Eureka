@@ -1,0 +1,17 @@
+com\equifax\eureka\microsvcs\repository\UserRepository$1.class
+com\equifax\eureka\microsvcs\service\UserServiceImpl.class
+com\equifax\eureka\microsvcs\repository\UserRepository$2.class
+com\equifax\eureka\microsvcs\config\EurekaMicroSvcsApplication.class
+com\equifax\eureka\microsvcs\repository\UserRepository.class
+com\equifax\eureka\microsvcs\repository\ProductRepository$2.class
+com\equifax\eureka\microsvcs\repository\ProductRepository$1.class
+com\equifax\eureka\microsvcs\repository\ProductRepository.class
+com\equifax\eureka\microsvcs\service\ProductService.class
+com\equifax\eureka\microsvcs\util\JsonUtils.class
+com\equifax\eureka\microsvcs\service\UserService.class
+com\equifax\eureka\microsvcs\model\Product.class
+com\equifax\eureka\microsvcs\controller\ProductController.class
+com\equifax\eureka\microsvcs\service\ProductServiceImpl.class
+com\equifax\eureka\microsvcs\aspectj\LoggingAspect.class
+com\equifax\eureka\microsvcs\model\User.class
+com\equifax\eureka\microsvcs\controller\UserController.class

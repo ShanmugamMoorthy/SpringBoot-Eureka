@@ -1,0 +1,24 @@
+ [
+	{
+		"prodId": "PROD_001",
+		"prodName": "Product_One",
+		"prodDesc": "This is product One",
+		"prodCategory": "SPORTS",
+		"prodCost":90.00
+	},
+	{
+		"prodId": "PROD_002",
+		"prodName": "Product_Two",
+		"prodDesc": "This is product Two",
+		"prodCategory": "SPORTS",
+		"prodCost":90.20
+	},
+	{
+		"prodId": "PROD_003",
+		"prodName": "Product_Three",
+		"prodDesc": "This is product Three",
+		"prodCategory": "SPORTS",
+		"prodCost":90.30
+	}
+]
+
